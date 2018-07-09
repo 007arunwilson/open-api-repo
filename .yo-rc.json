@@ -1,0 +1,10 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": false,
+    "name": "sample",
+    "repo": "007arunwilson/open-api-repo",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
